@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788219574766,
+      "tag": "0000_qc_inspect_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788220033682,
+      "tag": "0001_add_auth_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1788241008534,
+      "tag": "0002_add_evidence_and_wa",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1788254765922,
+      "tag": "0003_add_instruction_images",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1788255075354,
+      "tag": "0004_product_instruction_image",
+      "breakpoints": true
+    }
+  ]
+}
